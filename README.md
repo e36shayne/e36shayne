@@ -13,6 +13,7 @@ I build software around real workflows: creating a website, running a warehouse,
 | Project | What I built |
 | --- | --- |
 | **[WDM — Web Design Machine](https://github.com/e36shayne/portfolio#wdm--web-design-machine)** | A website-building workspace with reusable templates, visual editing, hosted content management, and publishing tools. |
+| **[Prime Time Certified](https://github.com/e36shayne/portfolio#prime-time-certified)** | A responsive automotive website with service and tire catalogs, vehicle intake, appointment requests, and mobile contact controls. |
 | **[Manifest](https://github.com/e36shayne/portfolio#manifest-card-game)** | A multiplayer card-game project with a battle room, guided onboarding, solo scenarios, card creation, and persistent player state. |
 | **[Avashalon + Creator](https://github.com/e36shayne/portfolio#avashalon-and-creator)** | An online RPG and its custom world-building toolchain: Java client/server, terrain and object editing, quests, models, and world publishing. |
 | **[Pallit](https://github.com/e36shayne/portfolio#pallit)** | A local warehouse workspace connecting inventory, teams, yard activity, outbound orders, time records, and business reporting. |
