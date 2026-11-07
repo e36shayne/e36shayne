@@ -2,7 +2,7 @@
 
 ### Business software. Game worlds. Tools for making both.
 
-I build software around real workflows: creating a website, running a warehouse, finding local businesses, reviewing applications, or authoring an online game. My work spans browser applications, desktop tools, Android, and multiplayer systems.
+I build software around real workflows: creating a website, helping children practice math, running a warehouse, finding local businesses, reviewing applications, or authoring an online game. My work spans browser applications, desktop tools, Android, and multiplayer systems.
 
 **[Explore my project portfolio →](https://github.com/e36shayne/portfolio)**
 
@@ -12,6 +12,7 @@ I build software around real workflows: creating a website, running a warehouse,
 
 | Project | What I built |
 | --- | --- |
+| **[Math Kingdom](https://github.com/e36shayne/portfolio#math-kingdom)** | A free math learning game for kindergarten through fourth grade, with interactive lessons, dragon adventures, boss battles, touch controls, and parent-managed progress saves. **[Play →](https://playmathkingdom.pages.dev/)** · [Codebase walkthrough](https://github.com/e36shayne/portfolio/blob/main/mathkingdom-codebase.md) |
 | **[WDM — Web Design Machine](https://github.com/e36shayne/portfolio#wdm--web-design-machine)** | A website-building workspace with reusable templates, visual editing, hosted content management, and publishing tools. |
 | **[Prime Time Certified](https://github.com/e36shayne/portfolio#prime-time-certified)** | A responsive automotive website with service and tire catalogs, vehicle intake, appointment requests, and mobile contact controls. |
 | **[Manifest](https://github.com/e36shayne/portfolio#manifest-card-game)** | A multiplayer card-game project with a battle room, guided onboarding, solo scenarios, card creation, and persistent player state. |
